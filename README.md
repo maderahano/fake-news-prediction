@@ -1,4 +1,5 @@
 # Predictive Analysis: Fake News Prediction
+By: Made Rahano Satryani Widhi
 
 | | Deskripsi |
 | ----------- | ----------- |
